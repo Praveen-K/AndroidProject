@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="HelloWorld" name="HelloWorld">
+    <container isflex="false" displayname="Form" id="HelloWorldMobileForm" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
